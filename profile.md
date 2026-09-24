@@ -1,5 +1,5 @@
 # Developer Profile
-- Name: Your Name
+- Name: Developer
 - Goal: Master Git & GitHub
 
 ## Technical Skills
