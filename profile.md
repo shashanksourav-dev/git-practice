@@ -1,5 +1,5 @@
 # Developer Profile
-- Name: Developer
+- Name: Deveops
 - Goal: Master Git & GitHub
 
 ## Technical Skills
